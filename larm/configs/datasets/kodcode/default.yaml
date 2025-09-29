@@ -1,0 +1,6 @@
+datasets: 
+  kodcode:
+    cache_path: dataset/kodcode
+    train_ratio: 0.7
+    valid_ratio: 0.1
+    test_ratio: 0.2

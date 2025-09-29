@@ -1,0 +1,4 @@
+datasets:
+  gpqa:  # use main for train and valid, use diamond for test
+    cache_path: dataset/gpqa
+    valid_ratio: 0.1
