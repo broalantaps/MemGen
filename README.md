@@ -57,6 +57,12 @@ We follow a two-stage training approach, training each module separately.
 ## 🫡 Citation
 If you find this repository helpful, a citation to our paper would be greatly appreciated:
 ```
+@article{zhang2025memgen,
+  title={MemGen: Weaving Generative Latent Memory for Self-Evolving Agents},
+  author={Zhang, Guibin and Fu, Muxin and Yan, Shuicheng},
+  journal={arXiv preprint arXiv:2509.24704},
+  year={2025}
+}
 ```
 
 ## 🙏 Acknowledgement
