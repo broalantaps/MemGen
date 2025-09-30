@@ -1,7 +1,7 @@
 # MemGen: Weaving Generative Latent Memory for Self-Evolving Agents
 
 ## 👋 Introduction
-This repo is the official implementation of [***MemGen: Weaving Generative Latent Memory for Self-Evolving Agents***]()
+This repo is the official implementation of [***MemGen: Weaving Generative Latent Memory for Self-Evolving Agents***](https://arxiv.org/pdf/2509.24704)
 
 Inspired by the human brain’s ability to dynamically integrate memory and reasoning, MemGen introduces a novel framework that empowers AI agents to evolve through experience—without relying on rigid parameter updates or external databases.
 
