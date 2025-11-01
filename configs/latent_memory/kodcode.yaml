@@ -132,6 +132,7 @@ run:
       num_iterations: 1
       grad_accum_steps: 1
       beta: 0.0
+      loss_type: bnpo
       
       # optimizer configs
       optim: adamw_torch
@@ -142,9 +143,9 @@ run:
       # duration
       logging_strategy: steps
       logging_steps: 1
-      eval_strategy: steps
+      eval_strategy: epoch
       eval_steps: 100
-      save_strategy: steps
+      save_strategy: epoch
       save_steps: 100
 
       # rewards
