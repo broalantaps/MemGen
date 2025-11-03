@@ -82,9 +82,9 @@ run:
       # logging
       logging_strategy: steps
       logging_steps: 1
-      eval_strategy: epoch
+      eval_strategy: steps
       eval_steps: 100
-      save_strategy: epoch
+      save_strategy: steps
       save_steps: 100
  
       assistant_only_loss: False   # used only in conversational dataset
@@ -109,9 +109,9 @@ run:
       # duration
       logging_strategy: steps
       logging_steps: 1
-      eval_strategy: epoch
+      eval_strategy: steps
       eval_steps: 100
-      save_strategy: epoch
+      save_strategy: steps
       save_steps: 100
 
       # rewards
@@ -140,9 +140,9 @@ run:
       # duration
       logging_strategy: steps
       logging_steps: 1
-      eval_strategy: epoch
+      eval_strategy: steps
       eval_steps: 100
-      save_strategy: epoch
+      save_strategy: steps
       save_steps: 100
 
       # rewards
