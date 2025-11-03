@@ -9,3 +9,4 @@ tensorboard==2.20.0
 trl==0.21.0
 flash-attn==2.8.3
 wandb==0.22.2
+hf_transfer
